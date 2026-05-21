@@ -65,7 +65,7 @@ export default function LandingPage() {
       description="Discover comfort and elegance in the heart of Rajkot. Perfect for your next peaceful getaway, we offer premium amenities to ensure an unforgettable stay."
       leftCarouselItems={[
         {
-          imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3E1T79FDLvD89OAMo7divZiLKNm/uploaded-1779345332564-hgmyq6p6.jpg",
+          imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3E1T79FDLvD89OAMo7divZiLKNm/uploaded-1779345332564-hgmyq6p6.jpg?_wi=1",
         },
         {
           imageSrc: "http://img.b2bpic.net/free-photo/couple-embracing-each-other-while-outdoors-night_23-2149215098.jpg",
@@ -74,7 +74,7 @@ export default function LandingPage() {
           imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3E1T79FDLvD89OAMo7divZiLKNm/uploaded-1779345332564-pjht8jl9.jpg",
         },
         {
-          imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3E1T79FDLvD89OAMo7divZiLKNm/uploaded-1779345332564-53d70tsz.jpg",
+          imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3E1T79FDLvD89OAMo7divZiLKNm/uploaded-1779345332564-53d70tsz.jpg?_wi=1",
         },
         {
           imageSrc: "http://img.b2bpic.net/free-photo/receptionist-providing-luxury-service_482257-78605.jpg",
@@ -82,13 +82,13 @@ export default function LandingPage() {
       ]}
       rightCarouselItems={[
         {
-          imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3E1T79FDLvD89OAMo7divZiLKNm/uploaded-1779345332564-53d70tsz.jpg",
+          imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3E1T79FDLvD89OAMo7divZiLKNm/uploaded-1779345332564-53d70tsz.jpg?_wi=2",
         },
         {
-          imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3E1T79FDLvD89OAMo7divZiLKNm/uploaded-1779345332564-y15a3xxm.jpg",
+          imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3E1T79FDLvD89OAMo7divZiLKNm/uploaded-1779345332564-y15a3xxm.jpg?_wi=1",
         },
         {
-          imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3E1T79FDLvD89OAMo7divZiLKNm/uploaded-1779345332564-hgmyq6p6.jpg",
+          imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3E1T79FDLvD89OAMo7divZiLKNm/uploaded-1779345332564-hgmyq6p6.jpg?_wi=2",
         },
         {
           imageSrc: "http://img.b2bpic.net/free-photo/city-building-with-rusty-surface_23-2148814156.jpg",
@@ -296,7 +296,7 @@ export default function LandingPage() {
       tag="Contact"
       title="Get In Touch"
       description="Visit us at Field Marshal Rd, Mota Mava, Rajkot. We look forward to welcoming you."
-      imageSrc="https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3E1T79FDLvD89OAMo7divZiLKNm/uploaded-1779345332564-y15a3xxm.jpg"
+      imageSrc="https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3E1T79FDLvD89OAMo7divZiLKNm/uploaded-1779345332564-y15a3xxm.jpg?_wi=2"
       mediaAnimation="slide-up"
     />
   </div>
